@@ -4,7 +4,7 @@ Guided project for the **Node Testing 2** module.
 
 ## Prerequisites
 
-- [DB Browser for SQLite](https://sqlitebrowser.org) installed.
+- [TablePlus](https://tableplus.com) installed.
 
 ## Project Setup
 
